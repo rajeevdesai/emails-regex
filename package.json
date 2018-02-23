@@ -1,0 +1,25 @@
+{
+  "name": "emails-regex",
+  "version": "1.0.0",
+  "description": "Email Regex Pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rajeevdesai/emails-regex.git"
+  },
+  "keywords": [
+    "email",
+    "regex",
+    "pattern",
+    "email regex"
+  ],
+  "author": "Rajeev Desai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rajeevdesai/emails-regex/issues"
+  },
+  "homepage": "https://github.com/rajeevdesai/emails-regex#readme"
+}
