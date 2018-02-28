@@ -28,7 +28,7 @@ const emailsRegex = require('emails-regex');
 
 ## See Also
 - [sindresorhus/email-regex](https://github.com/sindresorhus/email-regex)
-- [regexhq/regex-email] (https://github.com/regexhq/regex-email)
+- [regexhq/regex-email](https://github.com/regexhq/regex-email)
 - [You shouldn't use this for validating emails.][davidcelis] Use it only for hinting to the user.
 
 ## License
