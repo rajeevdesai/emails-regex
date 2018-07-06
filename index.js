@@ -1,5 +1,6 @@
 'use strict';
-const re = '[\\w.+-]+\\@[\\w-]+\\.[\\w]+';
+
+const re = '[\\w][\\w.+-]*[\\w\\d]\\@[\\w-]+(\\.[\\w]+)+';
 
 module.exports = options => {
   options = options || {};
