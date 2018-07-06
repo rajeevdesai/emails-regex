@@ -5,11 +5,11 @@ const expect = chai.expect();
 const emails_regex = require('../index.js');
 
 const validMatches = [
-  'avinash@gmail.com', 'raman@yamaha.in',
+  'avinash@gmail.com', 'raman@yamaha.in', 'johndoe@yahoo.co.uk'
 ];
 
 const invalidMatches = [
-  'prachi', 'avinash@icici'
+  'prachi', 'avinash@icici', 'nasa.gov', 'abc.xyz.def', 'whatever@@xyz.com'
 ];
 
 describe('Emails-regex', function() {
